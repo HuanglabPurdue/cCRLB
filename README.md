@@ -1,4 +1,4 @@
-# cCRLB
+# Constrained Cramér-Rao Lower Bound (cCRLB) for microscopy denoising algorithms based on OTF prior. 
 This folder contains the all the functions for calculating cCRLB
 
 How to run
